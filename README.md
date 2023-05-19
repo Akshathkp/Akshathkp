@@ -1,4 +1,4 @@
-<img align="center" alt="coding" height="375" width="1080" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
+<img align="center" alt="coding" height="250" width="100%" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
 
 <h1 align="center">Hi 👋, I'm Akshath Raskachas</h1>
 <h3 align="center">A passionate full-stack developer</h3>
