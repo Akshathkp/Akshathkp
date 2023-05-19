@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raskachas&show_icons=true&locale=en" alt="raskachas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raskachas&" alt="raskachas" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Raskachas&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
